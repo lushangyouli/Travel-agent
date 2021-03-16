@@ -1,0 +1,14 @@
+﻿  travel_plan.cpp
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(711): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(713): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(715): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(806): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(807): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(808): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(879): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(880): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(881): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(1174): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(1175): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhongxu\desktop\garbage\vs项目\travel_plan\travel_plan\travel_plan.cpp(1176): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  travel_plan.vcxproj -> C:\Users\zhongxu\Desktop\garbage\vs项目\travel_plan\Debug\travel_plan.exe
